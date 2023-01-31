@@ -17,7 +17,7 @@ This is a software engineering internship coding exercise for Fetch. The goal is
   1. Change directory to the newly created folder
 
   ```bash
-  cd FetchPoints
+  cd Fetch-Points
   ```
 
 ## Problem Statement
